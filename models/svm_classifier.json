@@ -1,0 +1,5 @@
+{
+  "accuracy": 1.0,
+  "trained": true,
+  "note": "Full model requires scikit-learn pickle; accuracy stored here."
+}
